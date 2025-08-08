@@ -1,0 +1,285 @@
+2025-08-07 11:18:28,930 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:18:28,931 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:18:49,605 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:18:49,606 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:19:50,405 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:19:50,407 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:19:56,817 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:19:56,817 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:01,278 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:01,279 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:02,873 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:02,874 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:05,150 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:05,151 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:11,248 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:11,249 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:16,112 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:16,113 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:25,570 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:25,572 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:27,574 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:27,575 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:29,042 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:29,044 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:30,441 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:30,442 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:34,334 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:34,335 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:35,970 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:35,972 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:38,998 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:39,000 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:41,098 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:41,099 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:47,960 - main - ERROR - Could not import or initialize workflows: cannot import name 'AIPIPE' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:47,961 - main - ERROR - Could not create minimal orchestrator: cannot import name 'AIPIPE' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:51,053 - main - ERROR - Could not import or initialize workflows: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:51,054 - main - ERROR - Could not create minimal orchestrator: cannot import name 'OPENAI_API_KEY' from 'config' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/config.py)
+2025-08-07 11:20:55,752 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:20:55,755 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:21:09,631 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:21:09,636 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:21:13,094 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:21:13,099 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:21:16,577 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:21:16,581 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:22:58,602 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:22:58,605 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:23:48,668 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:23:48,670 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:25:27,473 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:25:27,476 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:25:30,226 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:25:30,228 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:25:46,737 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:25:46,739 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:25:53,722 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:25:53,725 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:27:30,530 - main - ERROR - Could not import or initialize workflows: cannot import name 'CHART_TYPE_DETECTION_HUMAN_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:27:30,533 - main - ERROR - Could not create minimal orchestrator: cannot import name 'CHART_TYPE_DETECTION_HUMAN_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:28:56,899 - main - ERROR - Could not import or initialize workflows: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:28:56,905 - main - ERROR - Could not create minimal orchestrator: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 11:30:18,805 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 11:30:18,828 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 11:30:18,866 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 11:30:18,867 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 11:30:18,867 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 11:30:18,867 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:05:08,564 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:05:08,591 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:05:08,632 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:05:08,633 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:05:08,633 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:05:08,633 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:06:29,198 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:06:29,221 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:06:29,247 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:06:29,247 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:06:29,247 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:06:29,247 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:13:15,936 - main - ERROR - Could not import or initialize workflows: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:13:15,939 - main - ERROR - Could not create minimal orchestrator: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:13:31,425 - main - ERROR - Could not import or initialize workflows: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:13:31,427 - main - ERROR - Could not create minimal orchestrator: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:13:47,566 - main - ERROR - Could not import or initialize workflows: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:13:47,570 - main - ERROR - Could not create minimal orchestrator: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:15:07,755 - main - ERROR - Could not import or initialize workflows: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:15:07,757 - main - ERROR - Could not create minimal orchestrator: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:15:44,422 - main - ERROR - Could not import or initialize workflows: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:15:44,427 - main - ERROR - Could not create minimal orchestrator: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:15:47,664 - main - ERROR - Could not import or initialize workflows: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:15:47,667 - main - ERROR - Could not create minimal orchestrator: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:19:29,653 - main - ERROR - Could not import or initialize workflows: cannot import name 'QUESTION_ANSWERING_SYSTEM_PROMPT' from 'utils.prompts' (/home/petpooja-1052/data_analyst_agent/TDS_Project2/Project2/utils/prompts.py)
+2025-08-07 12:19:30,363 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:19:30,412 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:30,457 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:30,458 - main - INFO - Created minimal orchestrator with fallback workflows
+2025-08-07 12:19:34,744 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:19:34,774 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:34,808 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:34,809 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:19:34,809 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:19:34,809 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:19:42,365 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:19:42,394 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:42,430 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:42,431 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:19:42,431 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:19:42,431 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:19:45,870 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:19:45,892 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:45,917 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:45,918 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:19:45,918 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:19:45,918 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:19:54,506 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:19:54,530 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:54,557 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:54,558 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:19:54,558 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:19:54,558 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:19:58,050 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:19:58,077 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:58,107 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:19:58,107 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:19:58,108 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:19:58,108 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:20:01,501 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:20:01,524 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:20:01,549 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:20:01,549 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:20:01,549 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:20:01,549 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:20:11,056 - main - ERROR - Could not import or initialize workflows: invalid syntax. Perhaps you forgot a comma? (web_scraping_steps.py, line 1967)
+2025-08-07 12:20:11,097 - main - ERROR - Could not create minimal orchestrator: invalid syntax. Perhaps you forgot a comma? (web_scraping_steps.py, line 1967)
+2025-08-07 12:20:16,115 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:20:16,152 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:20:16,193 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:20:16,194 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:20:16,194 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:20:16,195 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:20:19,470 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:20:19,494 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:20:19,522 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:20:19,523 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:20:19,523 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:20:19,523 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:26:38,122 - main - INFO - Starting synchronous task 3fa6a2e3-cbfc-473f-8244-3df886ddf9d6
+2025-08-07 12:26:38,122 - main - INFO - Processed questions.txt with 588 characters
+2025-08-07 12:26:38,122 - main - INFO - Detecting workflow type for task: Scrape the list of highest grossing films from Wikipedia. It is at the URL:
+https://en.wikipedia.org...
+2025-08-07 12:26:38,122 - main - WARNING - LLM not available, using fallback workflow detection
+2025-08-07 12:26:38,122 - main - INFO - Detected workflow: multi_step_web_scraping
+2025-08-07 12:26:38,122 - main - INFO - Task description: Scrape the list of highest grossing films from Wikipedia. It is at the URL:
+https://en.wikipedia.org/wiki/List_of_highest-grossing_films
+
+Answer the following questions and respond with a JSON array o...
+2025-08-07 12:26:38,123 - main - INFO - Workflow input prepared with 7 keys
+2025-08-07 12:26:38,123 - main - INFO - Additional files: []
+2025-08-07 12:26:38,123 - main - INFO - Processing task 3fa6a2e3-cbfc-473f-8244-3df886ddf9d6 synchronously with workflow: multi_step_web_scraping
+2025-08-07 12:26:38,123 - main - INFO - Starting workflow execution for multi_step_web_scraping
+2025-08-07 12:26:38,124 - main - INFO - Executing workflow multi_step_web_scraping with orchestrator
+2025-08-07 12:26:38,124 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:26:38,124 - chains.workflows - INFO - Executing ModularWebScrapingWorkflow with enhanced format detection
+2025-08-07 12:26:40,329 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:26:41,934 - langsmith.client - WARNING - Failed to multipart ingest runs: langsmith.utils.LangSmithError: Failed to POST https://api.smith.langchain.com/runs/multipart in LangSmith API. HTTPError('403 Client Error: Forbidden for url: https://api.smith.langchain.com/runs/multipart', '{"error":"Forbidden"}\n')
+2025-08-07 12:26:45,005 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:26:45,127 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:26:45,244 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:26:45,289 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:26:45,346 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:26:46,999 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:26:47,043 - chains.web_scraping_steps - WARNING - LLM domain classification failed: Completions.create() got an unexpected keyword argument 'aipipe_api_key'
+2025-08-07 12:26:47,045 - main - INFO - Workflow multi_step_web_scraping executed successfully for task 3fa6a2e3-cbfc-473f-8244-3df886ddf9d6
+2025-08-07 12:26:47,045 - main - INFO - Result type: <class 'dict'>
+2025-08-07 12:26:47,045 - main - INFO - Result keys: ['workflow_type', 'status', 'timestamp', 'target_url', 'execution_log', 'results', 'plot_path', 'plot_base64', 'chart_type', 'image_size_bytes', 'message', 'fallback_mode']
+2025-08-07 12:26:47,045 - main - INFO - Task 3fa6a2e3-cbfc-473f-8244-3df886ddf9d6 completed successfully
+2025-08-07 12:26:47,045 - main - INFO - Result keys: ['workflow_type', 'status', 'timestamp', 'target_url', 'execution_log', 'results', 'plot_path', 'plot_base64', 'chart_type', 'image_size_bytes', 'message', 'fallback_mode']
+2025-08-07 12:26:47,921 - langsmith.client - WARNING - Failed to send compressed multipart ingest: langsmith.utils.LangSmithError: Failed to POST https://api.smith.langchain.com/runs/multipart in LangSmith API. HTTPError('403 Client Error: Forbidden for url: https://api.smith.langchain.com/runs/multipart', '{"error":"Forbidden"}\n')
+2025-08-07 12:26:48,851 - langsmith.client - WARNING - Failed to send compressed multipart ingest: langsmith.utils.LangSmithError: Failed to POST https://api.smith.langchain.com/runs/multipart in LangSmith API. HTTPError('403 Client Error: Forbidden for url: https://api.smith.langchain.com/runs/multipart', '{"error":"Forbidden"}\n')
+2025-08-07 12:28:39,110 - main - INFO - Starting synchronous task 226e306a-2ec7-48c2-a725-2b3beeb5e609
+2025-08-07 12:28:39,110 - main - INFO - Processed questions.txt with 588 characters
+2025-08-07 12:28:39,111 - main - INFO - Processed text file: question(2).txt
+2025-08-07 12:28:39,111 - main - INFO - Detecting workflow type for task: Scrape the list of highest grossing films from Wikipedia. It is at the URL:
+https://en.wikipedia.org...
+2025-08-07 12:28:39,111 - main - WARNING - LLM not available, using fallback workflow detection
+2025-08-07 12:28:39,112 - main - INFO - Detected workflow: multi_step_web_scraping
+2025-08-07 12:28:39,112 - main - INFO - Task description: Scrape the list of highest grossing films from Wikipedia. It is at the URL:
+https://en.wikipedia.org/wiki/List_of_highest-grossing_films
+
+Answer the following questions and respond with a JSON array o...
+2025-08-07 12:28:39,112 - main - INFO - Workflow input prepared with 7 keys
+2025-08-07 12:28:39,112 - main - INFO - Additional files: ['question(2).txt']
+2025-08-07 12:28:39,112 - main - INFO - Processing task 226e306a-2ec7-48c2-a725-2b3beeb5e609 synchronously with workflow: multi_step_web_scraping
+2025-08-07 12:28:39,113 - main - INFO - Starting workflow execution for multi_step_web_scraping
+2025-08-07 12:28:39,113 - main - INFO - Executing workflow multi_step_web_scraping with orchestrator
+2025-08-07 12:28:39,113 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 12:28:39,113 - chains.workflows - INFO - Executing ModularWebScrapingWorkflow with enhanced format detection
+2025-08-07 12:28:41,437 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:28:42,511 - langsmith.client - WARNING - Failed to send compressed multipart ingest: langsmith.utils.LangSmithError: Failed to POST https://api.smith.langchain.com/runs/multipart in LangSmith API. HTTPError('403 Client Error: Forbidden for url: https://api.smith.langchain.com/runs/multipart', '{"error":"Forbidden"}\n')
+2025-08-07 12:28:46,129 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:28:46,216 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:28:46,361 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:28:46,415 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:28:46,489 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:28:46,849 - langchain_community.chat_models.openai - WARNING - WARNING! aipipe_api_key is not default parameter.
+                    aipipe_api_key was transferred to model_kwargs.
+                    Please confirm that aipipe_api_key is what you intended.
+2025-08-07 12:28:46,895 - chains.web_scraping_steps - WARNING - LLM domain classification failed: Completions.create() got an unexpected keyword argument 'aipipe_api_key'
+2025-08-07 12:28:46,899 - main - INFO - Workflow multi_step_web_scraping executed successfully for task 226e306a-2ec7-48c2-a725-2b3beeb5e609
+2025-08-07 12:28:46,899 - main - INFO - Result type: <class 'dict'>
+2025-08-07 12:28:46,899 - main - INFO - Result keys: ['workflow_type', 'status', 'timestamp', 'target_url', 'execution_log', 'results', 'plot_path', 'plot_base64', 'chart_type', 'image_size_bytes', 'message', 'fallback_mode']
+2025-08-07 12:28:46,900 - main - INFO - Task 226e306a-2ec7-48c2-a725-2b3beeb5e609 completed successfully
+2025-08-07 12:28:46,900 - main - INFO - Result keys: ['workflow_type', 'status', 'timestamp', 'target_url', 'execution_log', 'results', 'plot_path', 'plot_base64', 'chart_type', 'image_size_bytes', 'message', 'fallback_mode']
+2025-08-07 12:28:48,636 - langsmith.client - WARNING - Failed to send compressed multipart ingest: langsmith.utils.LangSmithError: Failed to POST https://api.smith.langchain.com/runs/multipart in LangSmith API. HTTPError('403 Client Error: Forbidden for url: https://api.smith.langchain.com/runs/multipart', '{"error":"Forbidden"}\n')
+2025-08-07 12:37:21,003 - chains.base - INFO - Initialized DataAnalysisChain with model gpt-3.5-turbo
+2025-08-07 12:37:21,033 - chains.base - INFO - Initialized CodeGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:37:21,065 - chains.base - INFO - Initialized ReportGenerationChain with model gpt-3.5-turbo
+2025-08-07 12:37:21,066 - chains.workflows - WARNING - Could not initialize LLM for workflow detection: OpenAI API key not found
+2025-08-07 12:37:21,066 - main - INFO - Successfully initialized AdvancedWorkflowOrchestrator
+2025-08-07 12:37:21,066 - main - INFO - Available workflows: ['report_generation', 'multi_step_web_scraping']
+2025-08-07 19:11:30,430 - main - ERROR - Could not import or initialize workflows: No module named 'langchain_openai'
+2025-08-07 19:11:30,431 - main - ERROR - Could not create minimal orchestrator: No module named 'langchain_openai'
+2025-08-07 19:28:52,068 - main - INFO - Starting synchronous task fd854883-b595-4fa3-a806-239aa7e7102f
+2025-08-07 19:28:52,068 - main - INFO - Processed questions.txt with 588 characters
+2025-08-07 19:28:52,068 - main - WARNING - Skipping invalid file input: UploadFile(filename='question.txt', size=588, headers=Headers({'content-disposition': 'form-data; name="files"; filename="question.txt"', 'content-type': 'text/plain'}))
+2025-08-07 19:28:52,069 - main - INFO - Detecting workflow type for task: Scrape the list of highest grossing films from Wikipedia. It is at the URL:
+https://en.wikipedia.org...
+2025-08-07 19:28:52,070 - main - WARNING - LLM not available, using fallback workflow detection
+2025-08-07 19:28:52,070 - main - INFO - Detected workflow: multi_step_web_scraping
+2025-08-07 19:28:52,071 - main - INFO - Task description: Scrape the list of highest grossing films from Wikipedia. It is at the URL:
+https://en.wikipedia.org/wiki/List_of_highest-grossing_films
+
+Answer the following questions and respond with a JSON array o...
+2025-08-07 19:28:52,071 - main - INFO - Workflow input prepared with 7 keys
+2025-08-07 19:28:52,071 - main - INFO - Additional files: []
+2025-08-07 19:28:52,072 - main - INFO - Processing task fd854883-b595-4fa3-a806-239aa7e7102f synchronously with workflow: multi_step_web_scraping
+2025-08-07 19:28:52,072 - main - INFO - Starting workflow execution for multi_step_web_scraping
+2025-08-07 19:28:52,072 - main - WARNING - No orchestrator available, cannot execute workflows
+2025-08-07 19:28:52,072 - main - INFO - Task fd854883-b595-4fa3-a806-239aa7e7102f completed successfully
+2025-08-07 19:28:52,072 - main - INFO - Result keys: ['workflow_type', 'status', 'message', 'task_analysis', 'recommendations', 'parameters_prepared', 'files_processed']
+2025-08-07 19:30:11,599 - main - INFO - Starting synchronous task 80dea8dd-11cb-43db-b6c9-44e5ed74e605
+2025-08-07 19:30:11,599 - main - INFO - Processed questions.txt with 588 characters
+2025-08-07 19:30:11,599 - main - WARNING - Skipping invalid file input: UploadFile(filename='question.txt', size=588, headers=Headers({'content-disposition': 'form-data; name="files"; filename="question.txt"', 'content-type': 'text/plain'}))
+2025-08-07 19:30:11,599 - main - INFO - Detecting workflow type for task: Scrape the list of highest grossing films from Wikipedia. It is at the URL:
+https://en.wikipedia.org...
+2025-08-07 19:30:11,599 - main - WARNING - LLM not available, using fallback workflow detection
+2025-08-07 19:30:11,599 - main - INFO - Detected workflow: multi_step_web_scraping
+2025-08-07 19:30:11,599 - main - INFO - Task description: Scrape the list of highest grossing films from Wikipedia. It is at the URL:
+https://en.wikipedia.org/wiki/List_of_highest-grossing_films
+
+Answer the following questions and respond with a JSON array o...
+2025-08-07 19:30:11,599 - main - INFO - Workflow input prepared with 7 keys
+2025-08-07 19:30:11,600 - main - INFO - Additional files: []
+2025-08-07 19:30:11,600 - main - INFO - Processing task 80dea8dd-11cb-43db-b6c9-44e5ed74e605 synchronously with workflow: multi_step_web_scraping
+2025-08-07 19:30:11,600 - main - INFO - Starting workflow execution for multi_step_web_scraping
+2025-08-07 19:30:11,600 - main - WARNING - No orchestrator available, cannot execute workflows
+2025-08-07 19:30:11,600 - main - INFO - Task 80dea8dd-11cb-43db-b6c9-44e5ed74e605 completed successfully
+2025-08-07 19:30:11,600 - main - INFO - Result keys: ['workflow_type', 'status', 'message', 'task_analysis', 'recommendations', 'parameters_prepared', 'files_processed']
